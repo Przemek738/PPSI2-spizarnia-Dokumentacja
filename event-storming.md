@@ -16,7 +16,7 @@
 | **Statystyki (Statistics)** | widoki tylko do odczytu na podstawie dziennika zdarzeń | – (read model) |
 | **Administracja (Admin)** | zarządzanie użytkownikami, słownikami, logi | – (korzysta z innych kontekstów) |
 
-## 2. Oś czasu – Big Picture (chronologicznie)
+## 2. Oś czasu – Big Picture
 
 ```
 Rejestracja → Gospodarstwo → Zaproszenia → [Zakupy] → Produkty w spiżarni → Przypomnienia → Przepisy → Zużycie/Wyrzucenie/Oddanie → Statystyki
