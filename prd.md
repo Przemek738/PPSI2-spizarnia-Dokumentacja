@@ -58,7 +58,7 @@ Brakuje jednego miejsca, które łączy listę zakupów, stan spiżarni, przypom
 
 ### Kluczowe historyjki użytkownika
 
-Pełne historyjki z kryteriami akceptacji: [`user-stories.md`](04-backlog/user-stories.md), backlog z priorytetami i estymacją: [`backlog.md`](04-backlog/backlog.md).
+Pełne historyjki z kryteriami akceptacji: [`user-stories.md`](user-stories.md), backlog z priorytetami i estymacją: [`backlog.md`](backlog.md).
 
 - **US-001:** Jako nowy użytkownik, chcę założyć konto za pomocą adresu e-mail i hasła, aby mieć dostęp do mojej spiżarni z każdego urządzenia.
 - **US-002:** Jako osoba, która nie lubi pamiętać kolejnych haseł, chcę logować się kontem Google, aby szybciej zacząć korzystać z aplikacji.
@@ -216,12 +216,12 @@ Pełne historyjki z kryteriami akceptacji: [`user-stories.md`](04-backlog/user-s
 
 | Decyzja | ADR |
 |---|---|
-| Modularny monolit + SPA, REST | [ADR-001](02-adr/ADR-001-architektura-systemu.md) |
-| Frontend w Blazor WebAssembly | [ADR-003](02-adr/ADR-003-frontend.md) |
-| Uwierzytelnianie (Identity, JWT, Google) | [ADR-005](02-adr/ADR-005-uwierzytelnianie.md) |
-| Zadania w tle (Hangfire) | [ADR-006](02-adr/ADR-006-zadania-w-tle.md) |
-| Open Food Facts z lokalnym cache | [ADR-007](02-adr/ADR-007-zewnetrzna-baza-produktow.md) |
-| Model ilości, jednostek i statusów | [ADR-014](02-adr/ADR-014-model-ilosci-i-jednostek.md) |
+| Modularny monolit + SPA, REST | [ADR-001](adr/ADR-001-architektura-systemu.md) |
+| Frontend w Blazor WebAssembly | [ADR-003](adr/ADR-003-frontend.md) |
+| Uwierzytelnianie (Identity, JWT, Google) | [ADR-005](adr/ADR-005-uwierzytelnianie.md) |
+| Zadania w tle (Hangfire) | [ADR-006](adr/ADR-006-zadania-w-tle.md) |
+| Open Food Facts z lokalnym cache | [ADR-007](adr/ADR-007-zewnetrzna-baza-produktow.md) |
+| Model ilości, jednostek i statusów | [ADR-014](adr/ADR-014-model-ilosci-i-jednostek.md) |
 
 ---
 
