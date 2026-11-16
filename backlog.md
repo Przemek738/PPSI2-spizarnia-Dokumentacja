@@ -2,7 +2,7 @@
 
 Ten dokument przedstawia backlog projektu Spiżarnia. Zawiera historyjki użytkownika (US), które reprezentują funkcjonalności do zaimplementowania, a także zadania techniczne (TS).
 
-**Uwaga:** Ten sam backlog jest dostępny w formacie `backlog.csv`, który można zaimportować do narzędzi takich jak Jira, Trello czy GitHub Projects. Pełna treść historyjek z kryteriami akceptacji znajduje się w pliku [`user-stories.md`](user-stories.md), a uzasadnienie estymacji i plan sprintów w [`05-estymacja.md`](../05-estymacja.md). Plany kolejnych sprintów: [`08-sprinty/`](../08-sprinty/).
+**Uwaga:** Ten sam backlog jest dostępny w formacie `backlog.csv`, który można zaimportować do narzędzi takich jak Jira, Trello czy GitHub Projects. Pełna treść historyjek z kryteriami akceptacji znajduje się w pliku [`user-stories.md`](user-stories.md), a uzasadnienie estymacji i plan sprintów w [`05-estymacja.md`](../estymacja.md).
 
 ---
 
@@ -129,7 +129,7 @@ Ten dokument przedstawia backlog projektu Spiżarnia. Zawiera historyjki użytko
 ## Zarządzanie Backlogiem
 
 - **Spotkania pielęgnacji backlogu (Backlog Refinement):** Na początku każdego sprintu przeglądamy historyjki zaplanowane na ten sprint i dzielimy je na zadania (backend, frontend, testy) jako osobne issues w GitHub Projects.
-- **Definicja Gotowości (Definition of Ready - DoR):** Historyjka może wejść do sprintu, jeśli ma kryteria akceptacji, estymację uzgodnioną przez zespół i uzgodniony kontrakt API (szczegóły w [`07-zasady-pracy-zespolu.md`](../07-zasady-pracy-zespolu.md)).
+- **Definicja Gotowości (Definition of Ready - DoR):** Historyjka może wejść do sprintu, jeśli ma kryteria akceptacji, estymację uzgodnioną przez zespół i uzgodniony kontrakt API.
 - **Definicja Ukończenia (Definition of Done - DoD):** Historyjka ma status "Ukończono", gdy spełnia kryteria akceptacji, ma testy, przeszła code review i działa na wdrożonym środowisku.
 - **Priorytetyzacja:** Używamy skali P0/P1/P2 odpowiadającej metodzie MoSCoW (Must, Should, Could).
 
