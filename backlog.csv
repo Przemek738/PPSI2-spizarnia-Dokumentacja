@@ -1,0 +1,28 @@
+ID;Tytuł;Priorytet;Estymacja;Status;Sprint
+US-001;Rejestracja i logowanie przez e-mail;P0;13;Do zrobienia;Sprint 1
+US-002;Logowanie przez konto Google;P0;8;Do zrobienia;Sprint 4
+US-003;Wspólne gospodarstwo z domownikami;P0;8;Do zrobienia;Sprint 2
+US-004;Dodawanie produktów do spiżarni;P0;5;Do zrobienia;Sprint 2
+US-005;Przeglądanie zawartości spiżarni;P0;8;Do zrobienia;Sprint 2
+US-006;Oznaczanie produktu jako zużyty, wyrzucony lub oddany;P0;5;Do zrobienia;Sprint 3
+US-007;Skanowanie kodu kreskowego;P0;8;Do zrobienia;Sprint 3
+US-008;Przypomnienia o kończących się terminach;P0;8;Do zrobienia;Sprint 4
+US-009;Wspólna lista zakupów;P0;5;Do zrobienia;Sprint 3
+US-010;Przeniesienie zakupów do spiżarni;P0;5;Do zrobienia;Sprint 4
+US-011;Propozycje przepisów z tego, co mam w domu;P0;8;Do zrobienia;Sprint 4
+US-012;Statystyki zakupów i marnowania jedzenia;P0;8;Do zrobienia;Sprint 5
+US-013;Zarządzanie użytkownikami;P0;5;Do zrobienia;Sprint 5
+US-014;Zarządzanie słownikiem produktów;P0;5;Do zrobienia;Sprint 5
+US-015;Przeglądanie logów aplikacji;P0;5;Do zrobienia;Sprint 5
+TS-001;Repozytorium, struktura solucji i CI;P0;3;Do zrobienia;Sprint 0
+TS-002;Konteneryzacja i docker compose;P0;5;Do zrobienia;Sprint 0
+TS-003;Model danych, migracje i dane startowe;P0;5;Do zrobienia;Sprint 0
+TS-004;Dokumentacja OpenAPI i klient frontendu;P0;2;Do zrobienia;Sprint 0
+TS-005;Logowanie strukturalne;P0;3;Do zrobienia;Sprint 2
+TS-006;Szkielet frontendu;P0;5;Do zrobienia;Sprint 1
+TS-007;Wdrożenie i ciągłe dostarczanie;P0;8;Do zrobienia;Sprint 1
+TS-008;Infrastruktura testów automatycznych;P0;5;Do zrobienia;Sprint 2
+TS-009;Obsługa błędów i walidacja;P0;2;Do zrobienia;Sprint 2
+TS-010;Zabezpieczenia API;P1;2;Do zrobienia;Sprint 5
+ZAD-001;Sprawozdanie w LaTeX;P0;3;Do zrobienia;Sprint 5
+ZAD-002;Prezentacja działającej aplikacji;P0;2;Do zrobienia;Sprint 5
