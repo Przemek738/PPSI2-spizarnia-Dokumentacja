@@ -213,7 +213,6 @@ Pełne historyjki z kryteriami akceptacji: [`user-stories.md`](04-backlog/user-s
 
 - **Stack technologiczny:** Backend: ASP.NET Core (.NET 10, C#), EF Core; Frontend: Blazor WebAssembly + MudBlazor; Baza danych: PostgreSQL; Zadania w tle: Hangfire; Logi: Serilog; Konteneryzacja: Docker, docker compose; CI/CD: GitHub Actions; Testy: xUnit, Testcontainers, bUnit, Playwright.
 - **Integracje:** Logowanie przez konto Google (OAuth 2.0 / OpenID Connect); Open Food Facts API (dane produktów po kodzie kreskowym); serwer SMTP (e-maile).
-- **Architektura i decyzje:** szczegóły w rejestrze decyzji architektonicznych – [`02-adr/`](02-adr/README.md), diagramy i model danych – [`06-architektura.md`](06-architektura.md).
 
 | Decyzja | ADR |
 |---|---|
