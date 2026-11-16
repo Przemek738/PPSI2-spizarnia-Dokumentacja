@@ -2,7 +2,7 @@
 
 Ten dokument przedstawia backlog projektu Spiżarnia. Zawiera historyjki użytkownika (US), które reprezentują funkcjonalności do zaimplementowania, a także zadania techniczne (TS).
 
-**Uwaga:** Ten sam backlog jest dostępny w formacie `backlog.csv`, który można zaimportować do narzędzi takich jak Jira, Trello czy GitHub Projects. Pełna treść historyjek z kryteriami akceptacji znajduje się w pliku [`user-stories.md`](user-stories.md), a uzasadnienie estymacji i plan sprintów w [`05-estymacja.md`](../estymacja.md).
+**Uwaga:** Ten sam backlog jest dostępny w formacie `backlog.csv`, który można zaimportować do narzędzi takich jak Jira, Trello czy GitHub Projects. Pełna treść historyjek z kryteriami akceptacji znajduje się w pliku [`user-stories.md`](user-stories.md), a uzasadnienie estymacji i plan sprintów w [`estymacja.md`](../estymacja.md).
 
 ---
 
