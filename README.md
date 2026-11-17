@@ -10,6 +10,7 @@ Dokumentacja startowa projektu z kursu *PPSI2*.
 | [backlog.md](backlog.md) | Product backlog – tabele według epików | Product Backlog |
 | [backlog.csv](backlog.csv) | Ten sam backlog w CSV do importu | Product Backlog |
 | [user-stories.md](user-stories.md) | 15 najważniejszych historyjek | User Story |
+| [estymacja.md](estymacja.md) | Estymacja w SP: proces, historyjki referencyjne, spike'i, prędkość i plan wydania | Estymacja |
 
 ## Konwencje
 
